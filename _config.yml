@@ -98,9 +98,9 @@ author:
   location         : "Rochester, NY"
   email            : "conorggagliardi@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:conorggagliardi@gmail.com"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
