@@ -115,17 +115,17 @@ author:
       url: "https://github.com/ConorGagliardi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/conorgagliardi"
+      url: "https://instagram.com/conorgagliardi"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ConorGagliardi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/conorgagliardi"
 
 
 # Reading Files
