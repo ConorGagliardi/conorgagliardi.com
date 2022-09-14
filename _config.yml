@@ -100,22 +100,28 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:conorggagliardi@gmail.com"
+      # url: "mailto:conorggagliardi@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+<<<<<<< HEAD
     #- label: "Linkedin"
       #icon: "fab fa-fw fa-linkedin-square"
        #url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
+=======
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+>>>>>>> parent of d62f878f (Update _config.yml)
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ConorGagliardi"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/conorgagliardi/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -123,12 +129,18 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+<<<<<<< HEAD
     #- label: "Linkedin"
       #icon: "fab fa-fw fa-linkedin-square"
        #url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
+=======
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+>>>>>>> parent of d62f878f (Update _config.yml)
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ConorGagliardi"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -137,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/conorgagliardi/"
+      # url:
 
 
 # Reading Files
