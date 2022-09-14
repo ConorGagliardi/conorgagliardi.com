@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Conor Gagliardi"
   avatar           : "/images/mil pic.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "WORK IN PROGRESS"
   location         : "Rochester, NY"
   email            : "conorggagliardi@gmail.com"
   links:
@@ -107,15 +107,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-<<<<<<< HEAD
-    #- label: "Linkedin"
-      #icon: "fab fa-fw fa-linkedin-square"
-       #url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
-=======
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
->>>>>>> parent of d62f878f (Update _config.yml)
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -129,15 +123,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-<<<<<<< HEAD
-    #- label: "Linkedin"
-      #icon: "fab fa-fw fa-linkedin-square"
-       #url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
-=======
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
->>>>>>> parent of d62f878f (Update _config.yml)
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
