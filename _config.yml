@@ -99,7 +99,7 @@ author:
   email            : "conorggagliardi@gmail.com"
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
