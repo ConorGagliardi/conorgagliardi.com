@@ -7,8 +7,9 @@ author_profile: false
 
 - [Autonomous Micro UAV System (Personal Project)](https://github.com/ConorGagliardi/)<br>
 Personal project turned into an independent study course at RIT. The plan is to research and design an experiment for 
-software implementation for a drone to be able to perform amission (autonomous mapping), and during the mission, 
-return to a recharging station (wireless contact charger).
+software implementation for a drone to be able to perform a mission (autonomous mapping), and during the mission, 
+return to a recharging station (wireless contact charger). As the project is expanded on, I will post updates during this
+semester. This is my biggest project yet, so I will include detailed videos and research analysis.
 
 - [Experiment adding SMOTE to CNN Net Traffic Identifier (Machine Learning Project)](https://conorgagliardi.com/SMOTEproject/)<br>
 Link to research paper and github link. An experiment adding SMOTE to code with publication: Pytorch implementation 
