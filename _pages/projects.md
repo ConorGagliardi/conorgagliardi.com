@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-- [Autonomous Micro UAV System (Personal Project)](https://github.com/ConorGagliardi/)<br>
+- [Autonomous Micro UAV System (Personal Project)]<br>
 Personal project turned into an independent study course at RIT. The plan is to research and design an experiment for 
 software implementation for a drone to be able to perform a mission (autonomous mapping), and during the mission, 
 return to a recharging station (wireless contact charger). Testing will use a simulated environment for training, and final 
