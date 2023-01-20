@@ -21,7 +21,7 @@ Project)](https://conorgagliardi.com/projects/fashionMNISTproject)<br>
 Link to research paper. Project to implement and experiment with CNN hyperparameters. Classify Fashion MNIST dataset as a bonus, as well as MNIST digit set.
 
 - [MNIST Classifier using Support Vector Machines and Random Forest Classifiers (Machine
-Learning Project)](https://conorgagliardi/projects/VMRFproject)<br>
+Learning Project)](https://conorgagliardi/projects/SVMRFproject)<br>
 Link to writeup. Project to implement an SVM and Random Forest to classify the MNIST digit set.
 
 - [OpenCV Motion Detector / Object Tracking (Personal Project)](https://github.com/ConorGagliardi/OpenCVPractice)<br>
