@@ -17,7 +17,7 @@ Undergraduate Student, <br>
 [Rochester Institute of Technology](https://www.rit.edu), New York
  -->
 
-I am an RIT Undergraduate Student, a veteran and current soldier in the NY Army National Guard, and an aspiring researcher. I have gone through many hardships to get to where I am today, but I strive to succeed, and dream in the stars. I have done multiple personal projects on topics I am interested in such as machine learning, autonomous systems, and computer vision. I hope to pursue research in these fields and develop novel findings.
+I am an RIT Undergraduate Student, a VA disabled combat veteran currently serving in the NY Army National Guard, and an aspiring researcher. I have gone through many hardships to get to where I am today, but I strive to succeed, and dream in the stars. I have done multiple personal projects on topics I am interested in such as machine learning, autonomous systems, and computer vision. I hope to pursue research in these fields and develop novel findings.
 
 While only a freshmen in high school, I was selected to attend a local Early College High School Career Academy program. In this, I participated in college classes on a college campus whilst also being in high school. Those classes were networking and network security focused and I have maintained an outstanding average of 3.9 and above while staying top 10 in my high school. I have completed certifications Including CompTIA A+ and the CCENT as well during that time. 
 
