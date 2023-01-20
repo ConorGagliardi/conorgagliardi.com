@@ -20,7 +20,7 @@ Project)](https://conorgagliardi.com/fashionMNISTproject/)<br>
 Link to writeup and github link. Project to implement a CNN to classify Fashion MNIST dataset as well as MNIST digit set.
 
 - [MNIST Classifier using Support Vector Machines and Random Forest Classifiers (Machine
-Learning Project)](https://conorgagliardi/SVMRFproject)<br>
+Learning Project)](https://conorgagliardi/SVMRFproject/)<br>
 Link to writeup and github link. Project to implement an SVM and Random Forest to classify the MNIST digit set.
 
 - [OpenCV Motion Detector / Object Tracking (Personal Project)](https://github.com/ConorGagliardi/OpenCVPractice)<br>
