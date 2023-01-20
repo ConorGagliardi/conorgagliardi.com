@@ -5,7 +5,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Resume"
-     #url: /year-archive/
+    url: /resume/
   - title: "Research"
      #url: /collection-archive/
   - title: "Certificates"
