@@ -25,7 +25,7 @@ Learning Project)](https://conorgagliardi/SVMRFproject)<br>
 Link to writeup. Project to implement an SVM and Random Forest to classify the MNIST digit set.
 
 - [OpenCV Motion Detector / Object Tracking (Personal Project)](https://github.com/ConorGagliardi/OpenCVPractice)<br>
-Experimentation using OpenCV in order to draw bounding boxes around detected motion from linked livestreams or videos
+Experiment practicing using OpenCV culminating in a small project for motion decetion within linked livestreams or videos
 
 - [Tic-Tac-Toe Adversary A.I. (Artificial Intelligence Course Project)](https://github.com/ConorGagliardi/TicTacToe-Adversary-AI)<br>
 Created an adversary A.I. using LISP. Uses heuristic minimax search with a depth of 2.
