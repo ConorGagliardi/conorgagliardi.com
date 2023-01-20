@@ -1,6 +1,6 @@
 ---
 title: "A Math Formula Extraction and Evaluation Framework for PDF Documents"
-collection: publications
+collection: projects
 permalink: /projects/smoteproject
 ---
 
