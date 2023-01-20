@@ -29,6 +29,9 @@ My unique experiences have also allowed me to travel the world on personal trips
 
 If I could choose one word to describe myself, it would be Tenacity. I may get knocked down, but I always get right back up and keep putting one foot in front of the other.
 
+
+
+
 **Research Interests**: Autonomous Systems, Computer Vision, Deep Learning, Robotics, Aerospace /
 UAS software, Cybernetics and BioRobotics
 
