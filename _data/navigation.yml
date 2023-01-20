@@ -10,3 +10,9 @@ main:
      #url: /collection-archive/
   - title: "Certificates"
      #url: /sitemap/
+  - title: "SMOTE Project"
+    url: /SMOTEproject/
+  - title: "Fashion MNIST Project"
+    url: /fashionMNISTproject/
+  - title: "SVM and RF Project"
+    url: /SVMRFproject/ 
