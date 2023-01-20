@@ -11,7 +11,7 @@ software implementation for a drone to be able to perform a mission (autonomous 
 return to a recharging station (wireless contact charger). As the project is expanded on, I will post updates during this
 semester. This is my biggest project yet, so I will include detailed videos and research analysis.
 
-- [Experiment adding SMOTE to CNN Net Traffic Identifier (Machine Learning Project)](https://conorgagliardi.com/SMOTEproject/)<br>
+- [Experiment adding SMOTE to CNN Net Traffic Identifier (Machine Learning Project)](https://conorgagliardi.com/projects/smoteproject)<br>
 Link to research paper and github link. An experiment adding SMOTE to code with publication: Pytorch implementation 
 of deep packet: a novel approach for encrypted traffic classification using deep learning.
 
