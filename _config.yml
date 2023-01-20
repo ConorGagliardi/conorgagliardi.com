@@ -121,7 +121,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/conor-gagliardi-4a3797122/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
