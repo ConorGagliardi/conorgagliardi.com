@@ -17,11 +17,11 @@ Link to research paper and github link. An experiment adding SMOTE to code with 
 of deep packet: a novel approach for encrypted traffic classification using deep learning.
 
 - [Fashion MNIST Classifier using Tensorflow Convolutional Neural Network (Machine Learning
-Project)](https://conorgagliardi.com/fashionMNISTproject/)<br>
+Project)](https://conorgagliardi.com/fashionMNISTproject)<br>
 Link to research paper. Project to implement and experiment with CNN hyperparameters. Classify Fashion MNIST dataset as a bonus, as well as MNIST digit set.
 
 - [MNIST Classifier using Support Vector Machines and Random Forest Classifiers (Machine
-Learning Project)](https://conorgagliardi/SVMRFproject/)<br>
+Learning Project)](https://conorgagliardi/SVMRFproject)<br>
 Link to writeup. Project to implement an SVM and Random Forest to classify the MNIST digit set.
 
 - [OpenCV Motion Detector / Object Tracking (Personal Project)](https://github.com/ConorGagliardi/OpenCVPractice)<br>
