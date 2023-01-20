@@ -5,8 +5,6 @@ permalink: /resume/
 author_profile: false
 ---
 
-{% include base_path %}
-
 You can download a PDF copy of my CV
 [here](/files/Gagliardi_Conor_Resume.pdf).
 
