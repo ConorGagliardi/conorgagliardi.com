@@ -1,5 +1,5 @@
 ---
-title: "A Math Formula Extraction and Evaluation Framework for PDF Documents"
+title: "SMOTE experiment on network traffic classifier project"
 collection: projects
 permalink: /projects/smoteproject
 ---
