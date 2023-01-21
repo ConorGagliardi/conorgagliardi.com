@@ -16,6 +16,7 @@ redirect_from:
 Undergraduate Student, <br>
 [Rochester Institute of Technology](https://www.rit.edu), New York
  -->
+test
 
 I am an RIT Undergraduate Student, a VA disabled combat veteran currently serving in the NY Army National Guard, and an aspiring researcher. I have gone through many hardships to get to where I am today, but I strive to succeed, and dream in the stars. I have done multiple personal projects on topics I am interested in such as machine learning, autonomous systems, and computer vision. I hope to pursue research in these fields and develop novel findings.
 
