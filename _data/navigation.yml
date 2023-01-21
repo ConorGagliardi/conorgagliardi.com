@@ -7,6 +7,6 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Research"
-     #url: /collection-archive/
+    url: /research/
   #- title: "Certificates"
      #url: /sitemap/
