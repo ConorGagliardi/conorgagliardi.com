@@ -36,6 +36,6 @@ UAS software, Cybernetics and BioRobotics
 
 ---
 
-Get a PDF copy of my CV [here](/files/Gagliardi_Conor_Resume.pdf)
+Get a PDF copy of my Resume [here](/files/Gagliardi_Conor_Resume.pdf)
 
 ---
