@@ -31,8 +31,8 @@ If I could choose one word to describe myself, it would be Tenacity. I may get k
 
 
 
-**Research Interests**: Autonomous Systems, Computer Vision, Deep Learning, Robotics, Aerospace /
-UAS software, Cybernetics and BioRobotics
+**Research Interests**: Robotics, Autonomous Systems, Aerospace /
+UAS software, Cybernetics and BioRobotics, Computer Vision, Deep Learning
 
 ---
 
