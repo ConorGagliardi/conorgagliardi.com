@@ -10,13 +10,11 @@ Autonomous Systems, Computer Vision, Deep Learning, Robotics, Aerospace / UAS so
 
 My research works and projects include:
 
-- Independent Study on small-scale Autonomous UAV system.
-- Research and Development of EMG-controlled UAV/AUV system.
-- Experimentation and development with OpenCV
-- Extensive research as an intelligence analyst in the National Guard during my deployment, including work for the Port of Beirut blast in 2020 utilizing UAV systems 
-that aided international investigators to determine the cause of the blast and provide relief to thousands of affected Lebanese citizens.
+- Independent Study on small-scale Autonomous UAV system, using ORB-SLAM with ROS.
+- Research and Development of EMG-controlled UAV system using machine learning for feature extraction of EMG signals.
+- Various projects using OpenCV for motion detection, principle component analysis, and object detection.
+- Extensive research as an intelligence analyst in the National Guard during my deployment, including work for the Port of Beirut blast in 2020 using UAV systems that aided international investigators to determine the cause of the blast and provide relief to thousands of affected Lebanese citizens.
 
 **Current work:**
 
-- Continuing research on Autonomous UAV system, with uninformed mapping and pathfinding as well as mid-mission recharging.
-- Developing machine learning model to extract features from EMG data to direct drone movements in simulation.
+- Researching monocular vision based drone formation and control. Some tasks I am working towards are using CNN based object detection for drone recognition, closed-loop functionality without external communication for localization, single command oriented formation change.
