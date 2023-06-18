@@ -5,27 +5,28 @@ permalink: /projects/
 author_profile: false
 ---
 
-- [Autonomous Micro UAV System (Personal Project)](https://conorgagliardi.com/projects/UAVResearchproject)<br>
-Personal project turned into an independent study course at RIT. The plan is to research and design an experiment for 
-software implementation for a drone to be able to perform a mission (autonomous mapping), and during the mission, 
-return to a recharging station (wireless contact charger). Testing will use a simulated environment for training, and final 
-experimenting will be done using physical drone system. As the project is expanded on, I will post updates during this
-semester. This is my biggest project yet, so I will include detailed videos and research analysis.
+- [Vision-Based Control of Unmanned Aerial Systems Swarm (NSF-REU)] (https://conorgagliardi.com/projects/UASSwarmproject)<br>
+A research project led by Dr. Wei Sun, focusing on developing vision-based navigation and control for a swarm of Unmanned Aerial Systems (UAS). Using monocular cameras on DJI Tello drones for autonomous guidance and control, we designed and tested our control framework through various simulations and real-world flight tests. Involved stages of experimentation included work in the DroneDome at Dr. Sun’s Lab and outdoor testing at the Choctaw Nation UASIPP, as well as simulation experiments and code abstraction between simulation and physical implementation.
+
+- [Gesture-based UAV Control through EMG and IMU Data Fusion (Research Project)](https://conorgagliardi.com/projects/EMGDroneproject)<br>
+Worked on a novel UAV control scheme using human gestures captured through electromyography (EMG) and inertial measurement unit (IMU) data. Developed and tested different machine learning classifiers, with an emphasis on real-time gesture classification accuracy.
+
+- [SLAM Integration for Autonomous Micro UAVs (Personal Project / Independent Study)](https://conorgagliardi.com/projects/UAVResearchproject)<br>
+Developed an autonomous micro UAV system through exploration of different simulation software. Learned fundamentals of ROS such as how to effectively use topics, publishers, and subscribers, and how to display data through RVIZ, OpenCV, or RQT Graph to show the node structure. The focus was on using visual SLAM for map creation and localization in unexplored environments, and control of a system within simulation.
 
 - [Experiment adding SMOTE to CNN Net Traffic Identifier (Machine Learning Project)](https://conorgagliardi.com/projects/smoteproject)<br>
-Link to research paper and github link. An experiment adding SMOTE to code with publication: Pytorch implementation 
-of deep packet: a novel approach for encrypted traffic classification using deep learning.
+Experiment with integrating SMOTE into a Pytorch implementation for encrypted traffic classification.
 
 - [Fashion MNIST Classifier using Tensorflow Convolutional Neural Network (Machine Learning
 Project)](https://conorgagliardi.com/projects/fashionMNISTproject)<br>
-Link to research paper. Project to implement and experiment with CNN hyperparameters. Classify Fashion MNIST dataset as a bonus, as well as MNIST digit set.
+Built and optimized a TensorFlow CNN model to classify the Fashion MNIST and MNIST digit datasets.
 
 - [MNIST Classifier using Support Vector Machines and Random Forest Classifiers (Machine
 Learning Project)](https://conorgagliardi.com/projects/SVMRFproject)<br>
-Link to writeup. Project to implement an SVM and Random Forest to classify the MNIST digit set.
+Developed an SVM and Random Forest classifier for the MNIST digit dataset.
 
 - [OpenCV Motion Detector / Object Tracking (Personal Project)](https://github.com/ConorGagliardi/OpenCVPractice)<br>
-Experiment practicing using OpenCV culminating in a small project for motion decetion within linked livestreams or videos
+Experimented with OpenCV to develop a motion detector for live streams and videos.
 
 - [Tic-Tac-Toe Adversary A.I. (Artificial Intelligence Course Project)](https://github.com/ConorGagliardi/TicTacToe-Adversary-AI)<br>
-Created an adversary A.I. using LISP. Uses heuristic minimax search with a depth of 2.
+Designed an adversary A.I. for Tic-Tac-Toe using LISP and a heuristic minimax search.
