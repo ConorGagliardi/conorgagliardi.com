@@ -14,7 +14,10 @@ Worked on a novel UAV control scheme using human gestures captured through elect
 - [SLAM Integration for Autonomous Micro UAVs (Personal Project / Independent Study)](https://conorgagliardi.com/projects/UAVResearchproject)<br>
 Developed an autonomous micro UAV system through exploration of different simulation software. Learned fundamentals of ROS such as how to effectively use topics, publishers, and subscribers, and how to display data through RVIZ, OpenCV, or RQT Graph to show the node structure. The focus was on using visual SLAM for map creation and localization in unexplored environments, and control of a system within simulation.
 
-- [Experiment adding SMOTE to CNN Net Traffic Identifier (Machine Learning Project)](https://conorgagliardi.com/projects/smoteproject)<br>
+- [Experiment using pre-trained word embeddings for Joint Personalized Search and Recommendation Task (Research Project)](https://conorgagliardi.com/projects/HyperSarproject)<br>
+A research project building off of previous work, meant to observe the effects of adding pre-trained word embeddings to the HyperSaR pipeline. The project involves creating a model that generates a personalized list of items ranked by relevance based on a user, their interactions, and a possibly empty query. This involves the use of several datasets, including Lastfm, Point-of-Interest search engine (POI) from Naver, and MovieLens 25m.
+
+- [Experiment adding SMOTE to CNN Net Traffic Identifier (Research Project)](https://conorgagliardi.com/projects/smoteproject)<br>
 Experiment with integrating SMOTE into a Pytorch implementation for encrypted traffic classification.
 
 - [Fashion MNIST Classifier using Tensorflow Convolutional Neural Network (Machine Learning
