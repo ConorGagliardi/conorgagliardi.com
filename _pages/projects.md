@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 - [Vision-Based Control of Unmanned Aerial Systems Swarm (NSF-REU)](https://conorgagliardi.com/projects/UASSwarmproject)<br>
-A research project led by Dr. Wei Sun, focusing on developing vision-based navigation and control for a swarm of Unmanned Aerial Systems (UAS). Using monocular cameras on DJI Tello drones for autonomous guidance and control, we designed and tested our control framework through various simulations and real-world flight tests. Involved stages of experimentation included work in the DroneDome at Dr. Sun’s Lab and outdoor testing at the Choctaw Nation UASIPP, as well as simulation experiments and code abstraction between simulation and physical implementation.
+Project focusing on developing vision-based navigation and control for a swarm of Unmanned Aerial Systems (UAS). Using monocular cameras on DJI Tello drones for autonomous guidance and control, we designed and tested our control framework through various simulations and real-world flight tests. This project also used physical tests which included work in the DroneDome at Dr. Sun’s Lab and outdoor testing at the Choctaw Nation UASIPP, as well as simulation experiments and code abstraction between simulation and physical implementation.
 
 - [Gesture-based UAV Control through EMG and IMU Data Fusion (Research Project)](https://conorgagliardi.com/projects/EMGDroneproject)<br>
 Worked on a novel UAV control scheme using human gestures captured through electromyography (EMG) and inertial measurement unit (IMU) data. Developed and tested different machine learning classifiers, with an emphasis on real-time gesture classification accuracy.
