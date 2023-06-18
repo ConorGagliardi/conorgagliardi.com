@@ -6,7 +6,7 @@ permalink: /projects/EMGDroneproject
 
 [Github Repo](https://github.com/ConorGagliardi/EMGDrone)<br>
 
-**Demo Video, click image to open youtube page**
+**Demo Video, click image to open youtube link**
 
 [![Demo Video](http://img.youtube.com/vi/8QSJg4iWD-8/0.jpg)](http://www.youtube.com/watch?v=8QSJg4iWD-8)
 
