@@ -14,6 +14,8 @@ permalink: /projects/UASSwarmproject
 
 **Simulation Demo Videos, click images to open youtube link**
 
+[![Demo Video](http://img.youtube.com/vi/QukUG3KtupY/0.jpg)](http://www.youtube.com/watch?v=QukUG3KtupY)
+
 [![Demo Video](http://img.youtube.com/vi/SKE__EXSBrw/0.jpg)](http://www.youtube.com/watch?v=SKE__EXSBrw)
 
 [![Demo Video](http://img.youtube.com/vi/gFX8FKdN6wM/0.jpg)](http://www.youtube.com/watch?v=gFX8FKdN6wM)
