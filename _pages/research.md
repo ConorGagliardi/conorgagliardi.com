@@ -7,7 +7,7 @@ author_profile: false
 
 **Current work:**
 
-- Researching monocular vision based drone formation and control. Some tasks I am working towards are using CNN based object detection for drone recognition, closed-loop functionality without external communication for localization, single command oriented formation change.
+- See the projects page to view current and previous research. I am currently working on researching monocular vision based drone formation and control. Some tasks I am working towards are using CNN based object detection for drone recognition, closed-loop functionality without external communication for localization, single command oriented formation change.
 
 **Research Interests:** 
 Autonomous Systems, Computer Vision, Deep Learning, Robotics, Aerospace / UAS software, Cybernetics and BioRobotics
