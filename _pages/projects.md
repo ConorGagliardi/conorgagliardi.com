@@ -11,7 +11,7 @@ Project focusing on developing vision-based navigation and control for a swarm o
 - [Gesture-based UAV Control through EMG and IMU Data Fusion (Research Project)](https://conorgagliardi.com/projects/EMGDroneproject)<br>
 Worked on a novel UAV control scheme using human gestures captured through electromyography (EMG) and inertial measurement unit (IMU) data. Developed and tested different machine learning classifiers, with an emphasis on real-time gesture classification accuracy.
 
-- [SLAM Integration for Autonomous Micro UAVs (Personal Project / Independent Study)](https://conorgagliardi.com/projects/UAVResearchproject)<br>
+- [SLAM Integration for Autonomous UAVs (Personal Project / Independent Study)](https://conorgagliardi.com/projects/UAVResearchproject)<br>
 Developed an autonomous micro UAV system through exploration of different simulation software. Learned fundamentals of ROS such as how to effectively use topics, publishers, and subscribers, and how to display data through RVIZ, OpenCV, or RQT Graph to show the node structure. The focus was on using visual SLAM for map creation and localization in unexplored environments, and control of a system within simulation.
 
 - [Experiment using pre-trained word embeddings for Joint Personalized Search and Recommendation Task (Research Project)](https://conorgagliardi.com/projects/HyperSarproject)<br>
