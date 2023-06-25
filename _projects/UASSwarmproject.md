@@ -4,6 +4,11 @@ collection: projects
 permalink: /projects/UASSwarmproject
 ---
 
+**Currently working on**
+-Implementing multithreaded solutions for more snappy visual feedback from programs.
+-Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
+-Implementing formation changes.
+
 [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br>
 
 **Demo Videos, click images to open youtube link (more to come)**
