@@ -4,12 +4,23 @@ collection: projects
 permalink: /projects/UASSwarmproject
 ---
 
+**Completed**
+- Quadrotor manual control in simulation
+- Green blob/ball bit mask using OpenCV
+- Find edges of object to calculate radius and centroid
+- Threshold boundaries for object tracking with movement policies for following
+- Relative localization using radius size to maintain a consistent distance
+- Multi-agent proof of concept by manipulating threshold boundaries instead of symmetrical by default (move the center square and change its size)
+- Threading in simulation for better performance
+
+
 **Currently working on:**
 
-- Implementing multithreaded solutions for more snappy visual feedback from programs.
+- Implementing multithreaded solutions for more snappy visual feedback for dji tello implementation.
+- Implementing formation changes.
 - Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
 - Adding a boundary detector based on previous n amount of average movement vectors (frame by frame) instead of the blob's centroid.
-- Implementing formation changes.
+- 
 
 [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br>
 
