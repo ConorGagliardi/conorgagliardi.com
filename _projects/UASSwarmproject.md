@@ -21,6 +21,11 @@ permalink: /projects/UASSwarmproject
 
 **Simulation Demo Videos, click images to open youtube link (more to come)**
 
+
+*With threading*
+[![Demo Video](http://img.youtube.com/vi/pOn2-BmXH08/0.jpg)](http://www.youtube.com/watch?v=pOn2-BmXH08)
+
+*Without threading*
 [![Demo Video](http://img.youtube.com/vi/QukUG3KtupY/0.jpg)](http://www.youtube.com/watch?v=QukUG3KtupY)
 
 **Midterm Presentation**
