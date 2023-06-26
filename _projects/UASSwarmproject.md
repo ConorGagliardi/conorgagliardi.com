@@ -20,7 +20,7 @@ permalink: /projects/UASSwarmproject
 - Implementing formation changes.
 - Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
 - Adding a boundary detector based on previous n amount of average movement vectors (frame by frame) instead of the blob's centroid.
-- 
+
 
 [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br>
 
