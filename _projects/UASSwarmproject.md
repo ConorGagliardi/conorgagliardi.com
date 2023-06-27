@@ -17,15 +17,22 @@ permalink: /projects/UASSwarmproject
 
 **Currently working on:**
 
-- Implementing multithreaded solutions for more snappy visual feedback for dji tello implementation.
+- Implementing multithreaded solutions for more snappy visual feedback for dji tello implementation (90%) complete until thursday for physical tests.
 - Implementing formation changes.
 - Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
+- Collision avoidance
+- Collision maneuvering using formation changes.
 
 
 
 [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br>
 
-**Demo Videos, click images to open youtube link (top is most recent, more to come)**
+**Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
+
+*Momentum Test using DJI Tello Camera*
+
+[![Demo Video](http://img.youtube.com/vi/gqzmbzOukcQ/0.jpg)](http://www.youtube.com/watch?v=gqzmbzOukcQ)
+
 
 *Leader follower demo*
 
