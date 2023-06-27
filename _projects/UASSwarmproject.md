@@ -12,6 +12,7 @@ permalink: /projects/UASSwarmproject
 - Relative localization using radius size to maintain a consistent distance
 - Multi-agent proof of concept by manipulating threshold boundaries instead of symmetrical by default (move the center square and change its size)
 - Threading in simulation for better performance
+- Created a movement prediction model which uses a calculated 'momentum' using a history of center points
 
 
 **Currently working on:**
@@ -19,19 +20,26 @@ permalink: /projects/UASSwarmproject
 - Implementing multithreaded solutions for more snappy visual feedback for dji tello implementation.
 - Implementing formation changes.
 - Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
-- Adding a boundary detector based on previous n amount of average movement vectors (frame by frame) instead of the blob's centroid.
+
 
 
 [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br>
 
-**Demo Videos, click images to open youtube link (more to come)**
+**Demo Videos, click images to open youtube link (top is most recent, more to come)**
+
+*Leader follower demo*
 
 [![Demo Video](http://img.youtube.com/vi/2iU-LPFT6nQ/0.jpg)](http://www.youtube.com/watch?v=2iU-LPFT6nQ)
 
+*Demo program running (not threaded so it appears laggy, but will be updated soon)*
+
 [![Demo Video](http://img.youtube.com/vi/GC-F3tAkq40/0.jpg)](http://www.youtube.com/watch?v=GC-F3tAkq40)
 
-**Simulation Demo Videos, click images to open youtube link (more to come)**
+**Simulation Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
+*momentum predictor implemented*
+
+[![Demo Video](http://img.youtube.com/vi/oH6bX-O1VLA/0.jpg)](http://www.youtube.com/watch?v=oH6bX-O1VLA)
 
 *With threading*
 
