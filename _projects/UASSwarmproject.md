@@ -29,6 +29,10 @@ permalink: /projects/UASSwarmproject
 
 **Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
+*Weighted vs unweighted momentum prediction test* 
+
+[![Demo Video](http://img.youtube.com/vi/BsxpXkCZvg4/0.jpg)](http://www.youtube.com/watch?v=BsxpXkCZvg4)
+
 *Momentum Test using DJI Tello Camera*
 
 [![Demo Video](http://img.youtube.com/vi/gqzmbzOukcQ/0.jpg)](http://www.youtube.com/watch?v=gqzmbzOukcQ)
