@@ -29,6 +29,10 @@ permalink: /projects/UASSwarmproject
 
 **Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
+*Momentum based prediction for monocular drone formation*
+
+[![Demo Video](http://img.youtube.com/vi/6lF3zOCgCX8/0.jpg)](http://www.youtube.com/watch?v=6lF3zOCgCX8)
+
 *Weighted vs unweighted momentum prediction test* 
 
 [![Demo Video](http://img.youtube.com/vi/BsxpXkCZvg4/0.jpg)](http://www.youtube.com/watch?v=BsxpXkCZvg4)
