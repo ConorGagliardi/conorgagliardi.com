@@ -34,6 +34,10 @@ permalink: /projects/UASSwarmproject
 
 [![Demo Video](http://img.youtube.com/vi/6lF3zOCgCX8/0.jpg)](http://www.youtube.com/watch?v=6lF3zOCgCX8)
 
+*Demo Program running, relative localization of a follower agent, using momentum based prediction*
+
+[![Demo Video](http://img.youtube.com/vi/GC-PvklLIARG7k/0.jpg)](http://www.youtube.com/watch?v=GC-PvklLIARG7k)
+
 *Weighted vs unweighted momentum prediction test* 
 
 [![Demo Video](http://img.youtube.com/vi/BsxpXkCZvg4/0.jpg)](http://www.youtube.com/watch?v=BsxpXkCZvg4)
@@ -47,9 +51,7 @@ permalink: /projects/UASSwarmproject
 
 [![Demo Video](http://img.youtube.com/vi/2iU-LPFT6nQ/0.jpg)](http://www.youtube.com/watch?v=2iU-LPFT6nQ)
 
-*Demo program running (not threaded so it appears laggy, but will be updated soon)*
 
-[![Demo Video](http://img.youtube.com/vi/GC-F3tAkq40/0.jpg)](http://www.youtube.com/watch?v=GC-F3tAkq40)
 
 **Simulation Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
