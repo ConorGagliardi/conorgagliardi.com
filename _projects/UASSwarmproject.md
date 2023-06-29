@@ -36,7 +36,7 @@ permalink: /projects/UASSwarmproject
 
 *Demo Program running, relative localization of a follower agent, using momentum based prediction*
 
-[![Demo Video](http://img.youtube.com/vi/GC-PvklLIARG7k/0.jpg)](http://www.youtube.com/watch?v=GC-PvklLIARG7k)
+[![Demo Video](http://img.youtube.com/vi/PvklLIARG7k/0.jpg)](http://www.youtube.com/watch?v=GC-PvklLIARG7k)
 
 *Weighted vs unweighted momentum prediction test* 
 
