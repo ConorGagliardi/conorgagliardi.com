@@ -6,6 +6,7 @@ permalink: /projects/UASSwarmproject
 
 **Completed**
 - Quadrotor manual control in simulation
+- Modifying 3D model to fit needs for task
 - Green blob/ball bit mask using OpenCV
 - Find edges of object to calculate radius and centroid
 - Threshold boundaries for object tracking with movement policies for following
