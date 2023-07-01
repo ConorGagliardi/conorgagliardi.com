@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Transcript"
+permalink: /transcript/
+author_profile: false
+---
+
 You can download a PDF copy of my Transcript
 [here](/files/Gagliardi_Conor_Transcript.pdf).
 
