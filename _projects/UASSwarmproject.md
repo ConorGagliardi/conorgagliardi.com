@@ -38,6 +38,34 @@ permalink: /projects/UASSwarmproject
 
 [![Demo Video](http://img.youtube.com/vi/PvklLIARG7k/0.jpg)](http://www.youtube.com/watch?v=GC-PvklLIARG7k)
 
+
+**Simulation Demo Videos, click images to open youtube link (top is most recent, more to come)**
+
+
+*Formation Change to Maneuver Swarm Through a Narrow Cooridor*
+
+[![Demo Video](http://img.youtube.com/vi/fH7wXxbZxAY/0.jpg)](http://www.youtube.com/watch?v=fH7wXxbZxAY)
+
+*momentum predictor implemented*
+
+[![Demo Video](http://img.youtube.com/vi/oH6bX-O1VLA/0.jpg)](http://www.youtube.com/watch?v=oH6bX-O1VLA)
+
+*With threading*
+
+[![Demo Video](http://img.youtube.com/vi/pOn2-BmXH08/0.jpg)](http://www.youtube.com/watch?v=pOn2-BmXH08)
+
+
+
+**Midterm Presentation**
+
+<iframe src="/files/REU_Midterm.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+**Early Videos**
+
+*Without threading*
+
+[![Demo Video](http://img.youtube.com/vi/QukUG3KtupY/0.jpg)](http://www.youtube.com/watch?v=QukUG3KtupY)
+
 *Weighted vs unweighted momentum prediction test* 
 
 [![Demo Video](http://img.youtube.com/vi/BsxpXkCZvg4/0.jpg)](http://www.youtube.com/watch?v=BsxpXkCZvg4)
@@ -50,24 +78,3 @@ permalink: /projects/UASSwarmproject
 *Leader follower demo*
 
 [![Demo Video](http://img.youtube.com/vi/2iU-LPFT6nQ/0.jpg)](http://www.youtube.com/watch?v=2iU-LPFT6nQ)
-
-
-
-**Simulation Demo Videos, click images to open youtube link (top is most recent, more to come)**
-
-*momentum predictor implemented*
-
-[![Demo Video](http://img.youtube.com/vi/oH6bX-O1VLA/0.jpg)](http://www.youtube.com/watch?v=oH6bX-O1VLA)
-
-*With threading*
-
-[![Demo Video](http://img.youtube.com/vi/pOn2-BmXH08/0.jpg)](http://www.youtube.com/watch?v=pOn2-BmXH08)
-
-*Without threading*
-
-[![Demo Video](http://img.youtube.com/vi/QukUG3KtupY/0.jpg)](http://www.youtube.com/watch?v=QukUG3KtupY)
-
-**Midterm Presentation**
-
-
-<iframe src="/files/REU_Midterm.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
