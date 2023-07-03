@@ -21,6 +21,7 @@ permalink: /projects/UASSwarmproject
 **Currently working on:**
 - Refining formation change for physical demo.
 - Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
+- Rotation Tracking
 - Collision avoidance
 - Autonomous Collision maneuvering using formation changes.
 
