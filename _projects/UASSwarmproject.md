@@ -15,14 +15,14 @@ permalink: /projects/UASSwarmproject
 - Threading in simulation for better performance
 - Created a movement prediction model which uses a calculated 'momentum' using a history of center points
 - Implementing multithreaded solutions for more snappy visual feedback for dji tello implementation
+- Formation Change in Simulation
 
 
 **Currently working on:**
-
-- Implementing formation changes.
+- Refining formation change for physical demo.
 - Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
 - Collision avoidance
-- Collision maneuvering using formation changes.
+- Autonomous Collision maneuvering using formation changes.
 
 
 
