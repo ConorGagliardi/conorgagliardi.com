@@ -24,7 +24,7 @@ After Graduating high school, I began attending Rochester Institute of Technolog
 
 As I approach the end of my bachelor's degree, I have managed to raise my GPA from a 2.71 after my first year up to a 3.53, making the Dean's list every semester since then. My last semester I branched out my studies, taking 6 courses which included an independent study and a masters level electrical engineering course on machine learning and robotics. Doing so helped reinforce my passion for the subject and my goals to pursue postgraduate education.
 
-For the future, I plan to pursue postgraduate studies in robotics. I have found a passion in doing research as an undergraduate and want to extend that to the next level.
+For the future, I plan to pursue postgraduate studies in robotics. I have found a passion in doing research as an undergraduate and want to extend that to the next level. I want to contribute to the collective knowledge in the field and see breakthroughs come to fruition in physical implementations!
 
 My unique experiences have also allowed me to travel the world on personal trips and I have been able to go to Japan for 1 month, and the U.S. Virgin Islands where I became a PADI certified scuba diver. I have found a love for exploring new frontiers, which I hope to combine with machine learning one day in space or ocean oriented robotics research.
 
