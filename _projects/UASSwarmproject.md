@@ -39,7 +39,10 @@ permalink: /projects/UASSwarmproject
   <img src="/files/before%20after%20fine-tuning.PNG" style="width: 50%; height: auto; border: none; margin: 0; padding: 0;">
 </div>
 
+**Most Recent Update**
 
+*Drone Following using YOLOv8 Microsoft Airsim Demo*
+[![Demo Video](http://img.youtube.com/vi/82dp1T0wxLs/0.jpg)](http://www.youtube.com/watch?v=82dp1T0wxLs)
 
 **Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
