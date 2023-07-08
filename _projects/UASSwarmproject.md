@@ -16,17 +16,17 @@ permalink: /projects/UASSwarmproject
 - Created a movement prediction model which uses a calculated 'momentum' using a history of center points
 - Implementing multithreaded solutions for more snappy visual feedback for dji tello implementation
 - Formation Change in Simulation
-- Trained Drone detection YOLOv8 model on 16,000 drone pictures, and fine-tuned on hundreds of DJI Tello Drones at angles likely for a follower to see. [Dataset1](https://universe.roboflow.com/get/uav-detect-pfiqs/dataset/1) [Dataset2](https://universe.roboflow.com/project-tiamr/drone-detection-04s7b/dataset/13)<br>
+- Trained Drone detection YOLOv8 model on 16,000 drone pictures, and fine-tuned on hundreds of DJI Tello Drones at angles likely for a follower to see [Dataset1](https://universe.roboflow.com/get/uav-detect-pfiqs/dataset/1) [Dataset2](https://universe.roboflow.com/project-tiamr/drone-detection-04s7b/dataset/13)<br>
 - Implemented new 3D model that is easier to be recognized by Drone Detection Model
 - Implemented tracking based on detected drone in Microsoft Airsim. Uses [BoT-SORT](https://github.com/NirAharon/BoT-SORT)<br>
 
 
 **Currently working on:**
-- Refining formation change for physical demo.
-- Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with.
+- Refining formation change for physical demo
+- Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with
 - Rotation Tracking
 - Collision avoidance
-- Autonomous Collision maneuvering using formation changes.
+- Autonomous Collision maneuvering using formation changes
 
 
 
