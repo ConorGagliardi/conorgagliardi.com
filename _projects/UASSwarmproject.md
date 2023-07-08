@@ -35,8 +35,8 @@ Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm) for
 
 
 **Before and After Fine-Tuning YOLOv8 Model**
-<div style="max-width: 50%; float: left;">
-  <img src="/files/before%20after%20fine-tuning.PNG" style="width: 100%; height: auto; border: none; margin: 0; padding: 0;">
+<div style="max-width: 100%; float: left;">
+  <img src="/files/before%20after%20fine-tuning.PNG" style="width: 60%; height: auto; border: none; margin: 0; padding: 0;">
 </div>
 
 <br clear="both">
