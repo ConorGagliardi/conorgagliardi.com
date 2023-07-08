@@ -30,18 +30,19 @@ permalink: /projects/UASSwarmproject
 
 
 
-[Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br>
+Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br> for this project!
 
 
 
 **Before and After Fine-Tuning YOLOv8 Model**
 <div style="max-width: 50%; float: left;">
   <img src="/files/before%20after%20fine-tuning.PNG" style="width: 50%; height: auto; border: none; margin: 0; padding: 0;">
-</div>
+</div> <br>
 
 **Most Recent Update**
 
 *Drone Following using YOLOv8 Microsoft Airsim Demo*
+
 [![Demo Video](http://img.youtube.com/vi/82dp1T0wxLs/0.jpg)](http://www.youtube.com/watch?v=82dp1T0wxLs)
 
 **Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
