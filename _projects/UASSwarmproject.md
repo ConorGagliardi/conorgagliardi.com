@@ -39,6 +39,7 @@ Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm) for
   <img src="/files/before%20after%20fine-tuning.PNG" style="width: 50%; height: auto; border: none; margin: 0; padding: 0;">
 </div>
 
+<br clear="both">
 
 **Most Recent Update**
 
