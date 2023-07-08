@@ -32,6 +32,11 @@ permalink: /projects/UASSwarmproject
 
 [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br>
 
+
+
+**Before and After Fine-Tuning YOLOv8 Model**
+<iframe src="/files/before after fine-tuning.PNG" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 **Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
 *Momentum based prediction for monocular drone formation*
