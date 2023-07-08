@@ -35,7 +35,9 @@ permalink: /projects/UASSwarmproject
 
 
 **Before and After Fine-Tuning YOLOv8 Model**
-<iframe src="/files/before after fine-tuning.PNG" width="100%" height="300" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<img src="/files/before after fine-tuning.PNG" width="100%" height="300" frameborder="no" border="0" marginwidth="0" marginheight="0"></img>
+
+
 
 **Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
@@ -60,10 +62,6 @@ permalink: /projects/UASSwarmproject
 
 [![Demo Video](http://img.youtube.com/vi/oH6bX-O1VLA/0.jpg)](http://www.youtube.com/watch?v=oH6bX-O1VLA)
 
-
-**Midterm Presentation**
-
-<iframe src="/files/REU_Midterm.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 **Early Videos (Archive)**
 
