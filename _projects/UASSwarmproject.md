@@ -35,7 +35,9 @@ permalink: /projects/UASSwarmproject
 
 
 **Before and After Fine-Tuning YOLOv8 Model**
-<img src="/files/before after fine-tuning.PNG" width="100%" height="300" frameborder="no" border="0" marginwidth="0" marginheight="0"></img>
+<div style="max-width: 50%; float: left;">
+  <img src="/files/before%20after%20fine-tuning.PNG" style="width: 50%; height: auto; border: none; margin: 0; padding: 0;">
+</div>
 
 
 
