@@ -30,7 +30,7 @@ permalink: /projects/UASSwarmproject
 
 
 
-Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm)<br> for this project!
+Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm) for this project!
 
 
 
