@@ -17,6 +17,7 @@ permalink: /projects/UASSwarmproject
 - Implementing multithreaded solutions for more snappy visual feedback for dji tello implementation
 - Formation Change in Simulation
 - Trained Drone detection YOLOv8 model on 16,000 drone pictures, and fine-tuned on hundreds of DJI Tello Drones at angles likely for a follower to see [Dataset1](https://universe.roboflow.com/get/uav-detect-pfiqs/dataset/1) [Dataset2](https://universe.roboflow.com/project-tiamr/drone-detection-04s7b/dataset/13)<br>
+  -   YOLOv8 has much lower latency for real-time applications than YOLO-NAS, another state of the art model
 - Implemented new 3D model that is easier to be recognized by Drone Detection Model
 - Implemented tracking based on detected drone in Microsoft Airsim. Uses [BoT-SORT](https://github.com/NirAharon/BoT-SORT)<br>
 
