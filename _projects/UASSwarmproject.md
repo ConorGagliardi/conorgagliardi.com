@@ -20,11 +20,11 @@ permalink: /projects/UASSwarmproject
   -   YOLOv8 has much lower latency for real-time applications than YOLO-NAS, another state of the art model
 - Implemented new 3D model that is easier to be recognized by Drone Detection Model
 - Implemented tracking based on detected drone in Microsoft Airsim. Uses [BoT-SORT](https://github.com/NirAharon/BoT-SORT)<br>
+- Physical Implementation of YOLO model with formation change demonstrated successfully
 
 
 **Currently working on:**
-- Refining formation change for physical demo
-- Training a CNN / using a pre-trained YOLO network for drone recognition to replace the green ball with
+- Line Follower system for Leader Drone
 - Rotation Tracking
 - Collision avoidance
 - Autonomous Collision maneuvering using formation changes
@@ -42,7 +42,11 @@ Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm) for
 
 <br clear="both">
 
-**Most Recent Update**
+**Most Recent Updates**
+
+*YOLOv8 Monocular Leader-Follower Drone Swarm with Formation Change*
+
+[![Demo Video](http://img.youtube.com/vi/aSVolfx3ZVE/0.jpg)](http://www.youtube.com/watch?v=aSVolfx3ZVE)
 
 *Drone Following using YOLOv8 Microsoft Airsim Demo*
 
