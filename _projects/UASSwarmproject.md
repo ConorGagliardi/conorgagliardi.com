@@ -42,17 +42,12 @@ Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm) for
 
 <br clear="both">
 
-**Most Recent Updates**
+
+**Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
 *YOLOv8 Monocular Leader-Follower Drone Swarm with Formation Change*
 
 [![Demo Video](http://img.youtube.com/vi/aSVolfx3ZVE/0.jpg)](http://www.youtube.com/watch?v=aSVolfx3ZVE)
-
-*Drone Following using YOLOv8 Microsoft Airsim Demo*
-
-[![Demo Video](http://img.youtube.com/vi/82dp1T0wxLs/0.jpg)](http://www.youtube.com/watch?v=82dp1T0wxLs)
-
-**Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
 *Momentum based prediction for monocular drone formation*
 
@@ -66,6 +61,9 @@ Here is the [Github Repo](https://github.com/ConorGagliardi/Monocular-Swarm) for
 
 **Simulation Demo Videos, click images to open youtube link (top is most recent, more to come)**
 
+*Drone Following using YOLOv8 Microsoft Airsim Demo*
+
+[![Demo Video](http://img.youtube.com/vi/82dp1T0wxLs/0.jpg)](http://www.youtube.com/watch?v=82dp1T0wxLs)
 
 *Formation Change to Maneuver Swarm Through a Narrow Cooridor*
 
