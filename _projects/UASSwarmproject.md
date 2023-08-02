@@ -21,13 +21,7 @@ permalink: /projects/UASSwarmproject
 - Implemented new 3D model that is easier to be recognized by Drone Detection Model
 - Implemented tracking based on detected drone in Microsoft Airsim. Uses [BoT-SORT](https://github.com/NirAharon/BoT-SORT)<br>
 - Physical Implementation of YOLO model with formation change demonstrated successfully
-
-
-**Currently working on:**
 - Line Follower system for Leader Drone
-- Rotation Tracking
-- Collision avoidance
-- Autonomous Collision maneuvering using formation changes
 
 
 
