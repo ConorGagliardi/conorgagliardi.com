@@ -8,13 +8,14 @@ author_profile: false
 **Current work:**
 
 - See the projects page to view current and previous research.
-- I am currently working on researching monocular vision based drone formation and control. Some tasks I am working towards are using CNN based object detection for drone recognition, closed-loop functionality without external communication for localization, single command oriented formation change.
+- I am currently working on researching an autonomous rover system at NASA for collaboration with augmented reality spacesuits.
 
 **Research Interests:** 
-Autonomous Systems, Computer Vision, Deep Learning, Robotics, Aerospace / UAS software, Cybernetics and BioRobotics
+Robotics, Autonomous Systems, Computer Vision, Aerospace / UAS software, Cybernetics and BioRobotics / Biotechnology, Deep Learning
 
 My research works and projects include:
 
+- Monocular vision based drone formation and control. YOLOv8 based object detection for drone recognition, closed-loop functionality without external communication for localization, single command oriented formation change.
 - Independent Study on small-scale Autonomous UAV system, using ORB-SLAM with ROS.
 - Research and Development of EMG-controlled UAV system using machine learning for feature extraction of EMG signals.
 - Various projects using OpenCV for motion detection, principle component analysis, and object detection.
