@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: false
 ---
 
+- [Autonomous Rover System using LeoRover Platform in Collaboration with AR Spacesuits (NASA Intern)](https://conorgagliardi.com/projects/NASArover)<br>
+Developing an autonomous rover that can be used by partcipants of the S.U.I.T.S. challenge.
+
 - [Vision-Based Control of Unmanned Aerial Systems Swarm (NSF-REU)](https://conorgagliardi.com/projects/UASSwarmproject)<br>
 Project focusing on developing vision-based navigation and control for a swarm of Unmanned Aerial Systems (UAS). Using monocular cameras on DJI Tello drones for autonomous guidance and control, we designed and tested our control framework through various simulations and real-world flight tests. This project also used physical tests which included work in the DroneDome at Dr. Sun’s Lab and outdoor testing at the Choctaw Nation UASIPP, as well as simulation experiments and code abstraction between simulation and physical implementation.
 
