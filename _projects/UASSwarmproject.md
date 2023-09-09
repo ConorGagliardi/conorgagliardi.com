@@ -36,7 +36,7 @@ permalink: /projects/UASSwarmproject
 <br clear="both">
 
 
-**Physical Demo Videos, click images to open youtube link (top is most recent, more to come)**
+**Physical Demo Videos, click images to open youtube link (top is most recent)**
 
 *YOLOv8 Monocular Leader-Follower Drone Swarm with Formation Change*
 
