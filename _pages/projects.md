@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 - [Autonomous Rover System using LeoRover Platform in Collaboration with AR Spacesuits (NASA Intern)](https://conorgagliardi.com/projects/NASArover)<br>
+[WORK IN PROGRESS]
 Developing an autonomous rover that can be used by partcipants of the S.U.I.T.S. challenge.
 
 - [Vision-Based Control of Unmanned Aerial Systems Swarm (NSF-REU)](https://conorgagliardi.com/projects/UASSwarmproject)<br>
