@@ -29,6 +29,7 @@ to answer intelligence updates that had begun flooding in. Pivotal in this was t
 vehicles. Through their tasking, I was able to get context for the current information and was awestruck at
 the usefulness of the platforms. I was able to conduct port assessments using UAV imagery and give all
 of my efforts to aid in humanitarian relief efforts.
+
 I have been fascinated by autonomous robotics, which require little overhead from a controller,
 and just how useful they can be during trying times. I come from an underprivileged background; my
 father was raised in foster care, and my mother also had a rough upbringing. My parents had barely been
@@ -41,6 +42,7 @@ I discovered that I could join the Army National Guard to be able to afford scho
 deployed six months after I finished training to a combat zone, where I even took online classes
 when I could through a remote satellite laptop, still pursuing my goals, and becoming a 40%
 disabled VA veteran at 21 years old.
+
 It's unfortunate that being underprivileged puts students across the nation in a similar situation,
 and some choose not to risk their lives. I believe that I am a better person because of it. I have learned a
 lot of contexts about what it means to be underprivileged and learned leadership skills and self-
@@ -51,6 +53,7 @@ hours to do weekend training drills every month with my Army National Guard unit
 surrounded by some students who take their current situation for granted, I always try to have a
 conversation and remind everyone that they should be thankful for where they are and to work hard
 towards their goals.
+
 I have seen through my tenacity that, just like with research, I can reach my destination if I break
 down the steps of the journey into feasible pieces. From the beginning, my tenacity has aided me as I
 grow my potential step by step. I am pursuing autonomous robotics as an extension of my undergraduate
@@ -59,8 +62,7 @@ It is clear that graduate school is the next part of my journey in robotics rese
 
 
 
-**Research Interests**: Robotics, Autonomous Systems, Computer Vision, Aerospace /
-UAS software, Cybernetics and BioRobotics / Biotechnology, Deep Learning
+**Research Interests**: Robotics, Autonomous Systems, Perception, Guidance, Navigation, and Control
 
 ---
 
