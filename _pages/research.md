@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: false
 ---
 
-**Current work:**
+**Upcoming Work:**
+- Soon to begin research in next internship for Spring2024 on point cloud registration, 3d features, hazard detection, in order to facilitate safe-site identification, and terrain relative navigation for spacecraft and landers.
+
+**Current Work:**
 
 - See the projects page to view current and previous research.
 - I am currently working on researching an autonomous rover system at NASA for collaboration with augmented reality spacesuits.
