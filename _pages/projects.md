@@ -5,9 +5,13 @@ permalink: /projects/
 author_profile: false
 ---
 
+- [Guidance Navigation and Control Research for the SENSS Lab at NASA JSC (NASA Intern)]
+(https://conorgagliardi.com/projects/NASAGNC)<br>
+Spring 2024 Internship (IN PROGRESS)
+
 - [Autonomous Rover System using LeoRover Platform in Collaboration with AR Spacesuits (NASA Intern)](https://conorgagliardi.com/projects/NASArover)<br>
-[WORK IN PROGRESS]
-Developing an autonomous rover that can be used by partcipants of the S.U.I.T.S. challenge.
+Developing an autonomous rover and other auxillary components that facilitate the Spacesuit User Interface Technologies for Students (SUITS) design challenge. Tasked with ensuring autonomous functionality of a rover for use in the SUITS EVA test week. Subtasks included setting up manual control via joystick, LIDAR integration, web servers for streaming telemetry data including the rover’s position, video streams, and RGB-D streams. Additionally built Maps for the simulated Mars terrain field (rock yard) and voice communications for participants with the Local Mission Control Center (LMCC)
+
 
 - [Vision-Based Control of Unmanned Aerial Systems Swarm (NSF-REU)](https://conorgagliardi.com/projects/UASSwarmproject)<br>
 Project focusing on developing vision-based navigation and control for a swarm of Unmanned Aerial Systems (UAS). Using monocular cameras on DJI Tello drones for autonomous guidance and control, we designed and tested our control framework through various simulations and real-world flight tests. This project also used physical tests which included work in the DroneDome at Dr. Sun’s Lab and outdoor testing at the Choctaw Nation UASIPP, as well as simulation experiments and code abstraction between simulation and physical implementation.
