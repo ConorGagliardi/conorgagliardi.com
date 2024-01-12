@@ -19,7 +19,7 @@ permalink: /projects/NASArover
 - Implemented Mumble API into use for VOIP function with DCU devices and COMM Tower controlled by physical switches.
 
 <div style="max-width: 100%; float: left;">
-  <img src="/files/marsyard%test.gif" style="width: 100%; height: auto; border: none; margin: 0; padding: 0;">
+  <img src="/files/marsyard%20test.gif" style="width: 100%; height: auto; border: none; margin: 0; padding: 0;">
 </div>
 
 
