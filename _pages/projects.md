@@ -5,8 +5,7 @@ permalink: /projects/
 author_profile: false
 ---
 
-- [Guidance Navigation and Control Research for the SENSS Lab at NASA JSC (NASA Intern)]
-(https://conorgagliardi.com/projects/NASAGNC)<br>
+- [Guidance Navigation and Control Research for the SENSS Lab at NASA JSC (NASA Intern)](https://conorgagliardi.com/projects/NASAGNC)<br>
 Spring 2024 Internship (IN PROGRESS)
 
 - [Autonomous Rover System using LeoRover Platform in Collaboration with AR Spacesuits (NASA Intern)](https://conorgagliardi.com/projects/NASArover)<br>
