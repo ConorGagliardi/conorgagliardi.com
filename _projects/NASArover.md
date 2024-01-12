@@ -18,6 +18,8 @@ permalink: /projects/NASArover
 - Implemented QR Scanner for "sample detection" in the SUITS challenge.
 - Implemented Mumble API into use for VOIP function with DCU devices and COMM Tower controlled by physical switches.
 
+**Physical testing at Mars Simulated Terrain Field**
+
 <div style="max-width: 100%; float: left;">
   <img src="/files/marsyard%20test.gif" style="width: 100%; height: auto; border: none; margin: 0; padding: 0;">
 </div>
