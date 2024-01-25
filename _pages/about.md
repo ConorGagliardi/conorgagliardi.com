@@ -31,10 +31,7 @@ the usefulness of the platforms. I was able to conduct port assessments using UA
 of my efforts to aid in humanitarian relief efforts.
 
 I have been fascinated by autonomous robotics, which require little overhead from a controller,
-and just how useful they can be during trying times. I come from an underprivileged background; my
-father was raised in foster care, and my mother also had a rough upbringing. My parents had barely been
-able to make ends meet as they raised me and my two younger sisters. I am a first-generation college
-student, and during my first year at college as a computer science major, my grades had been dropping
+and just how useful they can be during trying times. I am a first-generation college student, and during my first year at college as a computer science major, my grades had been dropping
 below my usual straight A's. This was because I was unsure if I could even attend school the following
 semester. I did not qualify for student loans and had no one in my life who could cosign them either. I
 really felt the pressure that was put on individuals like myself in that system. When I nearly lost all hope,
