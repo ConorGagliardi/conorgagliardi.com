@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 - [Guidance Navigation and Control Research for the SENSS Lab at NASA JSC (NASA Intern)](https://conorgagliardi.com/projects/NASAGNC)<br>
-Spring 2024 Internship (IN PROGRESS)
+Spring 2024 and Summer 2024 Internship (Putting pages together currently)
 
 - [Autonomous Rover System using LeoRover Platform in Collaboration with AR Spacesuits (NASA Intern)](https://conorgagliardi.com/projects/NASArover)<br>
 Developing an autonomous rover and other auxillary components that facilitate the Spacesuit User Interface Technologies for Students (SUITS) design challenge. Tasked with ensuring autonomous functionality of a rover for use in the SUITS EVA test week. Subtasks included setting up manual control via joystick, LIDAR integration, web servers for streaming telemetry data including the rover’s position, video streams, and RGB-D streams. Additionally built Maps for the simulated Mars terrain field (rock yard) and voice communications for participants with the Local Mission Control Center (LMCC)
