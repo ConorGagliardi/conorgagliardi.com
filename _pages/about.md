@@ -16,7 +16,9 @@ redirect_from:
 Undergraduate Student, <br>
 [Rochester Institute of Technology](https://www.rit.edu), New York
  -->
-I am an incoming Robotics Ph.D. at Oregon State University, an RIT computer science undergrad alum, a veteran currently serving in the NY Army National Guard, and a current NASA intern. I have done multiple personal projects on topics I am interested in such as robotics, computer vision, autonomous systems, and machine learning. I plan to pursue research in perception and control of multi-agent robotics systems!
+I am a first year Robotics Ph.D. at Oregon State University in the Robot Decision Making Laboratory advised by Geoffrey Hollinger, an RIT computer science undergrad alum, an Army Veteran, and a 3 time NASA intern. I have done multiple personal projects on topics I am interested in such as robotics, computer vision, autonomous systems, and machine learning. I am pursuing research in perception and control of multi-agent robotics systems!
+
+Here is some of my story:
 
 On August 4th, 2020, I was suddenly shocked to hear a loud explosion. Shortly afterward, I
 received a call from my officer in command telling me to hurry to the Joint Operations Center. I did not
