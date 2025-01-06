@@ -16,7 +16,7 @@ redirect_from:
 Undergraduate Student, <br>
 [Rochester Institute of Technology](https://www.rit.edu), New York
  -->
-I am a first year Robotics Ph.D. at Oregon State University in the Robot Decision Making Laboratory advised by Geoffrey Hollinger, an RIT computer science undergrad alum, an Army Veteran, and a 3 time NASA intern. I have done multiple personal projects on topics I am interested in such as robotics, computer vision, autonomous systems, and machine learning. I am pursuing research in perception and control of multi-agent robotics systems!
+I am a first-year Robotics Ph.D. at Oregon State University in the Robot Decision Making Laboratory, advised by Geoffrey Hollinger, an RIT computer science alum, an Army Veteran deployed with Special Forces, and a 3 time NASA intern. I have done multiple personal projects on topics I am interested in, such as robotics, computer vision, autonomous systems, and machine learning. I am pursuing research in the perception and control of multi-agent robotics systems!
 
 Here is some of my story:
 
@@ -28,27 +28,25 @@ attached to Special Operations Command Central, filling the roles of lead intell
 of intelligence for a few areas of operation. “What had happened here?” and “Was everything going to be
 okay?” were thoughts going through my recently turned 21-year-old mind. I immediately began working
 to answer intelligence updates that had begun flooding in. Pivotal in this was the use of unmanned aerial
-vehicles. Through their tasking, I was able to get context for the current information and was awestruck at
-the usefulness of the platforms. I was able to conduct port assessments using UAV imagery and give all
+vehicles. Through their tasking, I got context for the current information and was awestruck at
+the platforms' usefulness. I conducted port assessments using UAV imagery and gave all
 of my efforts to aid in humanitarian relief efforts.
 
-I have been fascinated by autonomous robotics, which require little overhead from a controller,
-and just how useful they can be during trying times. I am a first-generation college student, and during my first year at college as a computer science major, my grades had been dropping
-below my usual straight A's. This was because I was unsure if I could even attend school the following
+I have been fascinated by autonomous robotics, which requires little overhead from a controller,
+and just how useful they can be during trying times. I am a first-generation college student, and during my first year as a computer science major, my grades dropped below my usual straight As. This was because I was unsure if I could even attend school the following
 semester. I did not qualify for student loans and had no one in my life who could cosign them either. I
 really felt the pressure that was put on individuals like myself in that system. When I nearly lost all hope,
 I discovered that I could join the Army National Guard to be able to afford school. I ended up being
 deployed six months after I finished training to a combat zone, where I even took online classes
-when I could through a remote satellite laptop, still pursuing my goals, and becoming a 40%
-disabled VA veteran at 21 years old.
+when I could through a remote satellite laptop, still pursuing my goals. (I got an A in linear algebra while overseas). The experience has also led me to become a 100% disabled VA veteran (at 21 years old).
 
 It's unfortunate that being underprivileged puts students across the nation in a similar situation,
 and some choose not to risk their lives. I believe that I am a better person because of it. I have learned a
-lot of contexts about what it means to be underprivileged and learned leadership skills and self-
+lot of contexts about life, learning leadership skills and self-
 responsibility at a younger age than most might. I knew that, at this point, my entire career was on my
 back every step of the way. I have been self-funded since then and managed to bring my 2 semesters’
 2.71 GPA to a 3.53 after military service and my final semester of classes, all while having to drive 8
-hours to do weekend training drills every month with my Army National Guard unit. When I am
+hours to do weekly weekend training drills with my Army National Guard unit. When I am
 surrounded by some students who take their current situation for granted, I always try to have a
 conversation and remind everyone that they should be thankful for where they are and to work hard
 towards their goals.
