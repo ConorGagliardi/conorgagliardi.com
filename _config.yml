@@ -94,8 +94,8 @@ analytics:
 author:
   name             : "Conor Gagliardi"
   avatar           : "/images/mil pic.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Passionate RIT student aiming for Postgraduate Research"
-  location         : "Waterford, NY"
+  bio              : "Tenacious OSU PH.D. student interested in multi-robot underwater mapping and localization."
+  location         : "Corvallis, OR"
   email            : "conorggagliardi@gmail.com"
   links:
     - label: "Linkedin"
