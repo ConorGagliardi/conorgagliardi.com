@@ -16,7 +16,7 @@ redirect_from:
 Undergraduate Student, <br>
 [Rochester Institute of Technology](https://www.rit.edu), New York
  -->
-I am a first-year Robotics Ph.D. at Oregon State University in the Robot Decision Making Laboratory, advised by Geoffrey Hollinger, an RIT computer science alum, an Army Veteran deployed with Special Forces, and a 3 time NASA intern. I have done multiple personal projects on topics I am interested in, such as robotics, computer vision, autonomous systems, and machine learning. I am pursuing research in the perception and control of multi-agent robotics systems!
+I am a second-year Robotics Ph.D. at Oregon State University in the Robot Decision Making Laboratory, advised by Geoffrey Hollinger, an RIT computer science alum, an Army Veteran deployed with Special Forces, previous MBARI intern and a 3 time NASA intern. I have done multiple personal projects on topics I am interested in, such as robotics, computer vision, autonomous systems, and machine learning. I am pursuing research in the perception and control of multiagent robotics systems!
 
 Here is some of my story:
 
